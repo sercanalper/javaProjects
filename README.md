@@ -1,1 +1,1 @@
-# javaProjects
+# This repository includes Java Projects, which is done by mine.
